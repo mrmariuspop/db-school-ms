@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a35169d-111f-4ed7-b2cb-63fb589444fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../complete/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/src/main/java/account/account/AccountApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/src/main/java/random/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/src/test/java/account/account/AccountApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/src/test/java/random/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/user/src/main/java/com/example/routingandfilteringbook/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/user/src/main/java/com/example/routingandfilteringbook/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/user/src/main/java/com/example/routingandfilteringbook/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/user/src/main/java/com/example/routingandfilteringbook/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complete/user/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/src/main/java/account/account/AccountApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/account/src/test/java/account/account/AccountApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/src/main/java/gateway/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/src/main/java/gateway/gateway/pre/SimpleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/gateway/src/test/java/gateway/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/src/main/java/user/user/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/src/main/java/user/user/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/src/main/java/user/user/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/src/main/java/user/user/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/src/main/java/user/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-school/user/src/test/java/user/user/UserApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/account/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/account/account/AccountApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/account/account/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/account/account/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/account/account/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/test/java/account/account/AccountApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/gateway/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/gateway/gateway/pre/SimpleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/test/java/gateway/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/java/user/user/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/java/user/user/controller/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/java/user/user/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/java/user/user/controller/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/java/user/user/controller/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/test/java/user/user/UserApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../initial/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../initial/gateway/src/main/java/com/example/routingandfilteringgateway/filters/pre/SimpleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../initial/src/main/java/employees/employees/EmployeesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../initial/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../initial/src/test/java/employees/employees/EmployeesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/src/main/java/books/books/BooksApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/src/main/java/books/books/controller/BooksController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/books/src/test/java/books/books/BooksApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/src/main/java/gateway/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/src/main/java/gateway/gateway/controller/GatewayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/gateway/src/test/java/gateway/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi-module/domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi-module/persistence/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi-module/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../db-school/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/src/main/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/src/main/java/com/example/routingandfilteringbook/UserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/book/src/test/java/com/example/routingandfilteringbook/BookApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/user/src/test/java/com/example/routingandfilteringbook/BookApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/gateway/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/gateway/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/gateway/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/gateway/src/main/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/gateway/src/main/java/com/example/routingandfilteringgateway/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/gateway/src/main/java/com/example/routingandfilteringgateway/filters/pre/SimpleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/gateway/src/main/java/com/example/routingandfilteringgateway/filters/pre/SimpleFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/gateway/src/test/java/com/example/routingandfilteringgateway/GatewayApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/gateway/src/test/java/com/example/routingandfilteringgateway/GatewayApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../complete/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../complete/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/book/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/book/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/book/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/book/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/book/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/book/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/book/src/main/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/book/src/main/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/book/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/book/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/book/src/test/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/book/src/test/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/gateway/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/gateway/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/gateway/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/gateway/src/main/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/gateway/src/main/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/gateway/src/test/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/gateway/src/test/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initial/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wSBtVC2Noi5snDlEiEHVAOtaSz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gateway.gateway.pre" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="account.account.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gateway.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="user.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a35169d-111f-4ed7-b2cb-63fb589444fb" name="Default Changelist" comment="" />
+      <created>1628442323439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628442323439</updated>
+      <workItem from="1628442324721" duration="7578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
